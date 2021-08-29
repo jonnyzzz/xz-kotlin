@@ -4,3 +4,6 @@ build
 out
 
 
+build
+extdoc
+*.class
